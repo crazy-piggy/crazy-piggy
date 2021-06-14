@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - NVIDIA Yes!
 
 代表作：https://github.com/crazy-piggy/ChemisCraft
+
+If you want to contact me, please email me at zhu290400233@126.com or 2904004233@qq.com.
