@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - Intel Yes!
 - NVIDIA Yes!
 
-代表作：https://github.com/crazy-piggy/ChemisCraft
+Please try: https://github.com/crazy-piggy/ChemisCraft & https://github.com/Funny-Developers/MvZJE
 
 `Also try SquidCraft!`
 
-If you want to contact me, please email me at zhu290400233@126.com or 2904004233@qq.com.
+If you want to contact me, please email me at zhu290400233@126.com or 2904004233@qq.com or zhu2904004233@outlook.com.
