@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 Please try: https://github.com/crazy-piggy/ChemisCraft & https://github.com/Funny-Developers/MvZJE
 
-`Also try SquidCraft and ElementEra!`
+`Also try SquidCraft by squid233 at Overrun Organization, ElementEra by baka4n and Elevator by squid233!`
 
 If you want to contact me, please email me at zhu290400233@126.com or 2904004233@qq.com or zhu2904004233@outlook.com.
