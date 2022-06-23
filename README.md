@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'll back after Gaokao (Nationwide Unified Examination for Admissions to General Universities and Colleges) in June!
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-piggy&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
