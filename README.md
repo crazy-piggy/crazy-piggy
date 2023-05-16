@@ -5,7 +5,7 @@
 - Intel Yes!
 - NVIDIA Yes!
 
-Please try: https://github.com/crazy-piggy/ChemisCraft & https://github.com/Funny-Developers/MvZJE
+Please try: https://github.com/crazy-piggy/BioChemisCraft & https://github.com/Funny-Developers/MvZJE
 
 `Also try SquidCraft by squid233 at Overrun Organization, ElementEra by baka4n and Elevator by squid233!`
 
