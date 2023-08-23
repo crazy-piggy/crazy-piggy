@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-piggy&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
-![GH States](https://github-readme-stats.vercel.app/api?username=crazy-piggy&locale=cn&show_icons=true)
+[![GH States](https://github-readme-stats.vercel.app/api?username=crazy-piggy&locale=cn&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - Intel Yes!
 - NVIDIA Yes!
