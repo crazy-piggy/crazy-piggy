@@ -1,6 +1,7 @@
 ### ¡Hi there 👋 , я crazy_piggy_!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crazy-piggy&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+![GH States](https://github-readme-stats.vercel.app/api?username=crazy-piggy&locale=cn&show_icons=true)
 
 - Intel Yes!
 - NVIDIA Yes!
